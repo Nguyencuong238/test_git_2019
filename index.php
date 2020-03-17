@@ -6,6 +6,5 @@
 </head>
 <body>
 	<p>this is tag 'p'</p>
-	<p>this is merged</p>
 </body>
 </html>
